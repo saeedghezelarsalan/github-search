@@ -1,0 +1,16 @@
+export const COLORS = {
+  white: 'bg-[#ffffff]',
+  orange: 'bg-[#E34C26]',
+  yellow: 'bg-[#F8E05A]',
+  blue: 'bg-[#3572A5]',
+  purple: 'bg-[#563D7C]',
+  brown: 'bg-[#DA5B0B]',
+  gold: 'bg-[#B07219]',
+  indigo: 'bg-[#4F5D95]',
+  skyBlue: 'bg-[#3178C6]',
+  lavender: 'bg-[#A97BFF]',
+  green: 'bg-[#178600]',
+  pink: 'bg-[#F34B7D]',
+  teal: 'bg-[#00ADD8]',
+  maroon: 'bg-[#701516]',
+};
