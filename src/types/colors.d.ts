@@ -1,0 +1,1 @@
+export type Colors = 'white' | 'orange' | 'yellow' | 'blue' | 'purple' | 'brown' | 'gold' | 'indigo' | 'skyBlue' | 'lavender' | 'green' | 'pink' | 'teal' | 'maroon';
