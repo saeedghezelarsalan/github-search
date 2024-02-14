@@ -9,7 +9,7 @@ import {BrowserRouter} from "react-router-dom";
 const store = initialize();
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-  <BrowserRouter>
+  <BrowserRouter basename="./test">
     <React.StrictMode>
       <Provider store={store}>
         <App/>
